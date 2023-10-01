@@ -1,0 +1,21 @@
+table {
+    margin-left: 29mm;
+}
+
+.CSSVisibility {
+    visibility: hidden;
+}
+
+button {
+    margin-top: 2mm;
+    margin-bottom: 3mm;
+}
+
+#start-bttn {
+    margin-left: 41mm;
+}
+
+#annul-ui-state-bttn {
+    margin-left: 15mm;
+    visibility: hidden;
+}
